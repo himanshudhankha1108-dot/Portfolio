@@ -9,7 +9,7 @@ a:hover { text-decoration: underline; }
 /* 
 home page css */
 #home{
-    background-image: url('web2.jpg') ;
+    background-image: url('web.jpg') ;
     background-size: cover;
     background-repeat: no-repeat;
  
@@ -316,4 +316,5 @@ caption {
             font-family: Georgia, 'Times New Roman', Times, serif;
             font-weight: bold;
         }
+
 
